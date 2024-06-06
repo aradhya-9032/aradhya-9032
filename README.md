@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi there 👋, I'm Aradhya Yaraguntla
+
+- 🔭 Creating engaging web apps at InternPe
+- 🌱 Expanding my knowledge in Node.js and server-side tech
+- 👯 Eager to partner on open-source and community projects
+- 💬 Chat with me about JavaScript, React, and UI/UX design
+- 📫 How to reach me at https://www.linkedin.com/in/arvi9032/
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a frontend developer with a flair for design
 
 <!--
 **aradhya-9032/aradhya-9032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
