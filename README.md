@@ -1,9 +1,6 @@
-<img src="https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_423_752/0/1630526455370?e=1723075200&v=beta&t=JuHXwF0sd5sgw80X9ZMUMejMaX4bziJsafJRtRTGwCo">
-
-
 <h1 align="center">Hi 👋, I'm Aradhya Yaraguntla</h1>
 <h3 align="center">Shaping the Visual Web Journey</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnqhVMRu6YfwQiBLnAT7B7DPaTtrLiR_kXXg&s">
+<img align="right" alt="coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnqhVMRu6YfwQiBLnAT7B7DPaTtrLiR_kXXg&s](https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_423_752/0/1630526455370?e=1723075200&v=beta&t=JuHXwF0sd5sgw80X9ZMUMejMaX4bziJsafJRtRTGwCo)">
 
 - 🔭 Creating engaging web apps at **IntenPe**
 
